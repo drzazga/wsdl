@@ -1,0 +1,268 @@
+
+
+Processing ApplicationController#wsdl (for 127.0.0.1 at 2009-12-16 23:26:05) [GET]
+
+NameError (uninitialized constant HelloMessageController::HelloMessageApi):
+  app/controllers/hello_message_controller.rb:2
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (131.2ms)
+Rendered rescues/_request_and_response (2.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#wsdl (for 127.0.0.1 at 2009-12-16 23:27:17) [GET]
+
+NameError (uninitialized constant HelloMessageController::HelloMessageApi):
+  app/controllers/hello_message_controller.rb:2
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (63.8ms)
+Rendered rescues/_request_and_response (2.2ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-12-16 23:28:10) [GET]
+
+NameError (uninitialized constant HelloMessageController::HelloMessageApi):
+  app/controllers/hello_message_controller.rb:2
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (58.2ms)
+Rendered rescues/_request_and_response (0.8ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#wsdl (for 127.0.0.1 at 2009-12-16 23:28:15) [GET]
+
+NameError (uninitialized constant HelloMessageController::HelloMessageApi):
+  app/controllers/hello_message_controller.rb:2
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (65.5ms)
+Rendered rescues/_request_and_response (0.8ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#wsdl (for 127.0.0.1 at 2009-12-16 23:34:58) [GET]
+
+NameError (uninitialized constant HelloMessageController::HelloMessageApi):
+  app/controllers/hello_message_controller.rb:2
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (65.9ms)
+Rendered rescues/_request_and_response (2.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#wsdl (for 127.0.0.1 at 2009-12-16 23:37:41) [GET]
+
+NameError (uninitialized constant ActionWebService):
+  app/apis/hello_message_api.rb:1
+  app/controllers/hello_message_controller.rb:2
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (73.4ms)
+Rendered rescues/_request_and_response (2.1ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#invoke (for 127.0.0.1 at 2009-12-16 23:38:22) [GET]
+
+NameError (uninitialized constant ActionWebService):
+  app/apis/hello_message_api.rb:1
+  app/controllers/hello_message_controller.rb:2
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (69.6ms)
+Rendered rescues/_request_and_response (0.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ApplicationController#wsdl (for 127.0.0.1 at 2009-12-16 23:38:44) [GET]
+
+NameError (uninitialized constant ActionWebService):
+  app/apis/hello_message_api.rb:1
+  app/controllers/hello_message_controller.rb:2
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (194.4ms)
+Rendered rescues/_request_and_response (0.8ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HelloMessageController#wsdl (for 127.0.0.1 at 2009-12-17 00:03:58) [GET]
+Sending data 
+Completed in 18ms (View: 1, DB: 0) | 200 OK [http://localhost/hello_message/wsdl]
+
+
+Processing HelloMessageController#invoke (for 127.0.0.1 at 2009-12-17 00:06:54) [GET]
+Rendering /usr/lib/ruby/gems/1.8/gems/datanoise-actionwebservice-2.3.2/lib/action_web_service/templates/scaffolds/layout.html.erb
+Completed in 115ms (View: 4, DB: 0) | 200 OK [http://localhost/hello_message/invoke]
+
+
+Processing HelloMessageController#invoke_method_params (for 127.0.0.1 at 2009-12-17 00:06:57) [GET]
+  Parameters: {"method"=>"HelloMessage", "service"=>"hello_message"}
+Rendering /usr/lib/ruby/gems/1.8/gems/datanoise-actionwebservice-2.3.2/lib/action_web_service/templates/scaffolds/layout.html.erb
+Completed in 33ms (View: 2, DB: 0) | 200 OK [http://localhost/hello_message/invoke_method_params?method=HelloMessage&service=hello_message]
+
+
+Processing HelloMessageController#invoke_submit (for 127.0.0.1 at 2009-12-17 00:07:04) [POST]
+  Parameters: {"commit"=>"Invoke", "service"=>"hello_message", "method"=>"HelloMessage", "authenticity_token"=>"MsxoJ3g4Ra0yx7TvDWQ0ebI5zpilJ6SI7CrvMFpz+KA=", "protocol"=>"soap", "method_params"=>{"0"=>"bartel", "1"=>"asd"}}
+
+Web Service Request: HelloMessage(firstname=>"bartel", lastname=>"asd") Entrypoint: invoke_submit
+  <?xml version="1.0" encoding="utf-8" ?>
+  <env:Envelope xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:env="http://schemas.xmlsoap.org/soap/envelope/">
+    <env:Body>
+      <n1:HelloMessage xmlns:n1="urn:ActionWebService"
+          env:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+        <firstname xsi:type="xsd:string">bartel</firstname>
+        <lastname xsi:type="xsd:string">asd</lastname>
+      </n1:HelloMessage>
+    </env:Body>
+  </env:Envelope>
+
+Web Service Response (0.002341): => "Hello bartel asd"
+  <?xml version="1.0" encoding="UTF-8" ?>
+  <env:Envelope xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:env="http://schemas.xmlsoap.org/soap/envelope/">
+    <env:Body>
+      <n1:HelloMessageResponse xmlns:n1="urn:ActionWebService"
+          env:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+        <return xsi:type="xsd:string">Hello bartel asd</return>
+      </n1:HelloMessageResponse>
+    </env:Body>
+  </env:Envelope>
+Sending data 
+Rendering /usr/lib/ruby/gems/1.8/gems/datanoise-actionwebservice-2.3.2/lib/action_web_service/templates/scaffolds/layout.html.erb
+Completed in 41ms (View: 2, DB: 0) | 200 OK [http:///hello_message/invoke_submit]
+
+
+Processing HelloMessageController#wsdl (for 127.0.0.1 at 2009-12-28 14:22:39) [GET]
+Sending data 
+Completed in 18ms (View: 1, DB: 0) | 200 OK [http://localhost/hello_message/wsdl]
+
+
+Processing HelloMessageController#invoke (for 127.0.0.1 at 2009-12-28 14:23:08) [GET]
+Rendering /usr/lib/ruby/gems/1.8/gems/datanoise-actionwebservice-2.3.2/lib/action_web_service/templates/scaffolds/layout.html.erb
+Completed in 140ms (View: 4, DB: 0) | 200 OK [http://localhost/hello_message/invoke]
+
+
+Processing HelloMessageController#invoke_method_params (for 127.0.0.1 at 2009-12-28 14:23:11) [GET]
+  Parameters: {"method"=>"HelloMessage", "service"=>"hello_message"}
+Rendering /usr/lib/ruby/gems/1.8/gems/datanoise-actionwebservice-2.3.2/lib/action_web_service/templates/scaffolds/layout.html.erb
+Completed in 75ms (View: 2, DB: 0) | 200 OK [http://localhost/hello_message/invoke_method_params?method=HelloMessage&service=hello_message]
+
+
+Processing HelloMessageController#invoke_method_params (for 127.0.0.1 at 2009-12-28 14:23:35) [GET]
+  Parameters: {"method"=>"HelloMessage", "service"=>"hello_message"}
+Rendering /usr/lib/ruby/gems/1.8/gems/datanoise-actionwebservice-2.3.2/lib/action_web_service/templates/scaffolds/layout.html.erb
+Completed in 41ms (View: 3, DB: 0) | 200 OK [http://localhost/hello_message/invoke_method_params?method=HelloMessage&service=hello_message]
+
+
+Processing HelloMessageController#invoke_submit (for 127.0.0.1 at 2009-12-28 14:23:39) [POST]
+  Parameters: {"commit"=>"Invoke", "service"=>"hello_message", "method"=>"HelloMessage", "authenticity_token"=>"8XuUta+PEL13E8W06rzmuix+xtO5kQsbX3RAF2XnheY=", "protocol"=>"soap", "method_params"=>{"0"=>"cos"}}
+
+Web Service Request: HelloMessage(name=>"cos") Entrypoint: invoke_submit
+  <?xml version="1.0" encoding="utf-8" ?>
+  <env:Envelope xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:env="http://schemas.xmlsoap.org/soap/envelope/">
+    <env:Body>
+      <n1:HelloMessage xmlns:n1="urn:ActionWebService"
+          env:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+        <name xsi:type="xsd:string">cos</name>
+      </n1:HelloMessage>
+    </env:Body>
+  </env:Envelope>
+
+Web Service Response (0.002449): => "Hello cos"
+  <?xml version="1.0" encoding="UTF-8" ?>
+  <env:Envelope xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:env="http://schemas.xmlsoap.org/soap/envelope/">
+    <env:Body>
+      <n1:HelloMessageResponse xmlns:n1="urn:ActionWebService"
+          env:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+        <return xsi:type="xsd:string">Hello cos</return>
+      </n1:HelloMessageResponse>
+    </env:Body>
+  </env:Envelope>
+Sending data 
+Rendering /usr/lib/ruby/gems/1.8/gems/datanoise-actionwebservice-2.3.2/lib/action_web_service/templates/scaffolds/layout.html.erb
+Completed in 162ms (View: 2, DB: 0) | 200 OK [http:///hello_message/invoke_submit]
